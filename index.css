@@ -1,0 +1,74 @@
+h1 {
+  justify-content: center;
+  display: flex;
+  color: green;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.Header {
+  border: 2px solid black;
+  background-color: transparent;
+}
+
+h2 {
+  justify-content: center;
+  display: flex;
+  color: saddlebrown;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h3 {
+  justify-content: center;
+  display: flex;
+  color: skyblue;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdItEtXY_KqhnrAc1AldMi8VJPDhylKENaUt4VBbdtx6IfjQontpKcu_moEy3yayN3Y3s&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.books {
+  display: flex;
+  background-color: paleturquoise;
+  width: 300px;
+  color: aqua;
+  margin: 20px;
+  justify-content: center;
+  text-align: right;
+  background-color: rgba 255, 2, 2, 0.5;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.808);
+  border-radius: 15px;
+}
+
+.Header2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  text-align: right;
+  color: green;
+}
+
+/*# sourceMappingURL=index.css.map */
